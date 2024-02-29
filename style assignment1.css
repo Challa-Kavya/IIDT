@@ -1,0 +1,23 @@
+#row1{
+    text-align: center;
+    background-color: rgb(90, 212, 29);
+    color:white;
+}
+.name{
+    background-color: rgb(201, 227, 190);
+}
+.maths{
+    background-color: rgb(161, 233, 161);
+}
+.Science{
+    background-color: rgb(201, 227, 190);
+}
+.English{
+    background-color: rgb(161, 233, 161);
+}
+.Physics{
+    background-color: rgb(201, 227, 190);
+}
+.generalKnowledge{
+    background-color: rgb(161, 233, 161);
+}
